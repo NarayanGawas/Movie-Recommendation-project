@@ -22,3 +22,7 @@ Features
 💻 Easy-to-use interface (can be command-line or web-based). 
 
 <img width="946" height="535" alt="image" src="https://github.com/user-attachments/assets/d3be7306-6862-4769-b948-3bdccc021c96" />
+
+## 🌐 Live Demo
+👉 [Click here to see the project live](https://movie-recommendation-project-idea.onrender.com)
+
